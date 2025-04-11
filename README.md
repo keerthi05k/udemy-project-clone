@@ -1,8 +1,5 @@
 # udemy-project-clone
 
-Here's a professional and concise description for your Udemy clone project:
-
-**Project Description: Udemy Clone Website**  
 This project involves creating a Udemy-inspired educational platform using HTML and CSS. The website features a clean and responsive design, showcasing course categories, individual course pages, and a user-friendly layout. Key components include:  
 
 - **Homepage:** Highlighting featured courses, categories, and a search bar for easy navigation.  
